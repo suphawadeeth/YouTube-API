@@ -7,7 +7,7 @@ We will be working with YouTube API in this project.
 
 Following the instruction in this link here --> [Fitzgerald, Anna. How to Get a YouTube API Key [Tutorial + Examples], blog.hubspot.com](https://blog.hubspot.com/website/how-to-get-youtube-api-key)
 
-Summary:
+**Summary: How to get YouTube API key**
 - You need Google Cloud or Google account, log in
 - Go to [Google Developers Console](https://console.cloud.google.com/apis/dashboard) >> click create a new project >> click on new project (or it'll redirect to the new project automatically after you create it) 
 - Drop down menu, find "APIs & Services",click "Enabled APIs & services"
@@ -63,11 +63,11 @@ Another way to store key without .env by simply store key in a file and read the
 ---
 
 # How to get YouTube Channel ID 
-- If you have your own channel that's easy >> you can see your Channel ID on the search bar when you're inside the [studio page](studio.youtube.com)
+- If you have your own channel >> you can see your Channel ID on the search bar when you're inside the [studio page](studio.youtube.com)
 - But if you want to find ID of other Channels that you want to work on
-    >> Go to the channel page >> go to "About" 
-    >> select the arrow sign (share button) 
-    >> select "Copy Channel ID" - there you'll have the ID to write in your code
+    - Go to the channel page >> go to "About" 
+    - select the arrow sign (share button) 
+    - select "Copy Channel ID" - there you'll have the ID to write in your code
 
 
 ---
